@@ -1,0 +1,15 @@
+﻿<Application
+    x:Class="Inlämningsuppgift01.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Inlämningsuppgift01"
+    xmlns:localData="using:Inlämningsuppgift01.Data">
+
+    <Application.Resources>
+
+        <!-- Application-specific resources -->
+
+        <x:String x:Key="AppName">Inlämningsuppgift01</x:String>
+
+    </Application.Resources>
+</Application>
